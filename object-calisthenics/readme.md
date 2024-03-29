@@ -8,15 +8,15 @@ These rules focus on **maintainability, readability, testability, and comprehens
 In the following, I will review each of these 9 rules listed below:
 ><sup>Just try to apply some rules in your time, don't take this as religion.</sup>
 
-1)  Only One Level Of Indentation Per Method
-1)  Don’t Use The ELSE Keyword
-1)  Wrap All Primitives And Strings
-1)  First Class Collections
-1)  One Dot Per Line
-1)  Don’t Abbreviate
-1)  Keep All Entities Small
-1)  No Classes With More Than Two Instance Variables
-1)  No Getters/Setters/Properties
+- [1. Only One Level Of Indentation Per Method](#1-only-one-level-of-indentation-per-method)
+- [2. Don’t Use The ELSE Keyword](#2-dont-use-the-else-keyword)
+- [3. Wrap All Primitives And Strings](#3-wrap-all-primitives-and-strings)
+- [4. First Class Collections](#4-first-class-collections)
+- [5. One Dot Per Line](#5-one-dot-per-line)
+- [6. Don’t Abbreviate](#6-dont-abbreviate)
+- [7. Keep All Entities Small](#7-keep-all-entities-small)
+- [8. No Classes With More Than Two Instance Variables](#8-no-classes-with-more-than-two-instance-variables)
+- [9. No Getters/Setters/Properties](#9-no-getterssettersproperties)
 
 
 ## 1. Only One Level Of Indentation Per Method
